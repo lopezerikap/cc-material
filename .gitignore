@@ -1,0 +1,7 @@
+# TIA Portal temporary files
+*.tmp
+*.bak
+~*
+/AdditionalFiles/
+/Logs/
+/UserFiles/
