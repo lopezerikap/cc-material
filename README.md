@@ -59,7 +59,7 @@ This project focuses on the design, integration, and programming of an **automat
 
 The workflow integrates conveyor transport line automation, a *Pick & Place* robotic manipulator, a mechanical testing press using a load cell with analog conditioning, and automated product sorting based on material strength tolerances and recipes.
 
-### ⚙️ Key Features
+### ⚙️ Key features
 * **Material management:** material test parameters configurable from the HMI for different materials (PLA, TPU, Wood, etc.).
 * **Industrial analog signal conditioning:** force acquisition using a load cell and $0-10\text{ V}$ transmitter directly connected to the PLC's integrated analog inputs.
 * **Position control:** precision speed and position control of the compression axis via pulse train outputs ($PTO$) driving a $TB6600$ module and $NEMA17$ stepper motor.
@@ -71,7 +71,7 @@ The workflow integrates conveyor transport line automation, a *Pick & Place* rob
 * 📐 [System architecture & electrical schematics](docs/HARDWARE_WIRING.en.md)
 * 🎯 [Load cell calibration guide](docs/CALIBRATION_GUIDE.en.md)
 
-### 🛠️ Hardware & Software Stack
+### 🛠️ Hardware & software stack
 * **PLC:** Siemens SIMATIC S7-1200 (CPU 1212C / 1214C DC/DC/DC)
 * **HMI:** Siemens SIMATIC KTP400 / KTP700 Basic
 * **Software:** TIA Portal V17 / V18 (WinCC Basic)
