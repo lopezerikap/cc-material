@@ -35,9 +35,6 @@ El proceso combina el transporte en línea, la manipulación de piezas mediante 
 * 📐 [Arquitectura del sistema y esquemas eléctricos](docs/HARDWARE_WIRING.es.md)
 * 🎯 [Guía de calibración de la célula de carga](docs/CALIBRATION_GUIDE.es.md)
 
-
----
-
 ### 🛠️ Tecnologías y componentes (hardware y software)
 * **PLC:** Siemens SIMATIC S7-1200 (CPU 1212C / 1214C DC/DC/DC)
 * **HMI:** Siemens SIMATIC KTP400 / KTP700 Basic
@@ -47,8 +44,6 @@ El proceso combina el transporte en línea, la manipulación de piezas mediante 
   * Motor paso a paso NEMA 17 + Driver TB6600
   * Chasis en perfil de aluminio extruido $2020$ V-Slot + husillo $T8$
   * Cinta transportadora + manipulador *Pick & Place*
-
----
 
 ### 📄 Licencia
 Distribuido bajo la Licencia Apache, Versión 2.0 (la "Licencia"). Puedes obtener una copia de la Licencia en el archivo `LICENSE` o en:
@@ -63,6 +58,7 @@ http://www.apache.org/licenses/LICENSE-2.0
 This project focuses on the design, integration, and programming of an **automated industrial system for material processing, handling, and quality control**, developed within an Industry 4.0 framework.
 
 The workflow integrates conveyor transport line automation, a *Pick & Place* robotic manipulator, a mechanical testing press using a load cell with analog conditioning, and automated product sorting based on material strength tolerances and recipes.
+
 ### ⚙️ Key Features
 * **Material management:** material test parameters configurable from the HMI for different materials (PLA, TPU, Wood, etc.).
 * **Industrial analog signal conditioning:** force acquisition using a load cell and $0-10\text{ V}$ transmitter directly connected to the PLC's integrated analog inputs.
@@ -75,8 +71,6 @@ The workflow integrates conveyor transport line automation, a *Pick & Place* rob
 * 📐 [System architecture & electrical schematics](docs/HARDWARE_WIRING.en.md)
 * 🎯 [Load cell calibration guide](docs/CALIBRATION_GUIDE.en.md)
 
----
-
 ## 🛠️ Hardware & Software Stack
 * **PLC:** Siemens SIMATIC S7-1200 (CPU 1212C / 1214C DC/DC/DC)
 * **HMI:** Siemens SIMATIC KTP400 / KTP700 Basic
@@ -86,8 +80,6 @@ The workflow integrates conveyor transport line automation, a *Pick & Place* rob
   * Stepper motor NEMA17 + TB6600 Driver
   * $2020$ V-Slot aluminum profile frame + $T8$ lead screw
   * Conveyor belt assembly + Pick & Place manipulator
-
----
 
 ## 📄 License
 Licensed under the Apache License, Version 2.0 (the "License"). You may obtain a copy of the License in the `LICENSE` file or at:
