@@ -71,7 +71,7 @@ The workflow integrates conveyor transport line automation, a *Pick & Place* rob
 * 📐 [System architecture & electrical schematics](docs/HARDWARE_WIRING.en.md)
 * 🎯 [Load cell calibration guide](docs/CALIBRATION_GUIDE.en.md)
 
-## 🛠️ Hardware & Software Stack
+### 🛠️ Hardware & Software Stack
 * **PLC:** Siemens SIMATIC S7-1200 (CPU 1212C / 1214C DC/DC/DC)
 * **HMI:** Siemens SIMATIC KTP400 / KTP700 Basic
 * **Software:** TIA Portal V17 / V18 (WinCC Basic)
@@ -81,6 +81,6 @@ The workflow integrates conveyor transport line automation, a *Pick & Place* rob
   * $2020$ V-Slot aluminum profile frame + $T8$ lead screw
   * Conveyor belt assembly + Pick & Place manipulator
 
-## 📄 License
+### 📄 License
 Licensed under the Apache License, Version 2.0 (the "License"). You may obtain a copy of the License in the `LICENSE` file or at:
 http://www.apache.org/licenses/LICENSE-2.0
