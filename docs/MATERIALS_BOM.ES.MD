@@ -34,30 +34,45 @@
 ## 🧱 2. Materiales y hardware del sistema
 
 ### 🤖 2.1 Control y automatización (PLC & HMI)
-| Cantidad | Componente                       | Descripción / especificación                                                              |
-------------------------------------------------------------------------------------------------------------------------------------------
-| 1-2x     | **PLC Siemens S7-1200**          | CPU 1212C / 1214C DC/DC/DC con entradas analógicas $0-10\text{ V}$ e interfaces PROFINET. |
-| 1x       | **Pantalla HMI SIMATIC**         | Siemens KTP400 / KTP700 Basic con puerto PROFINET.                                        |
-| 1x       | **Fuente de alimentación**       | $24\text{ V DC} / 5\text{ A}$ montaje en carril DIN.                                      |
-| 1x       | **Seta de parada de emergencia** | NC (Normalmente Cerrada) con enclavamiento para seguridad.                                |
-| 1x       | **Botonera de control**          | Pulsadores de marcha/paro e indicadores luminosos de estado.                              |
+* **1-2x PLC Siemens S7-1200**  
+  * *Modelo:* CPU 1212C / 1214C DC/DC/DC  
+  * *Características:* entradas analógicas de $0-10\text{ V}$ e interfaz PROFINET integradas.
+* **1x Pantalla HMI SIMATIC**  
+  * *Modelo:* Siemens KTP400 / KTP700 Basic  
+  * *Características:* comunicación PROFINET para supervisión y materiales.
+* **1x Fuente de alimentación**  
+  * *Especificaciones:* $24\text{ V DC} / 5\text{ A}$ para montaje en carril DIN.
+* **1x Seta de parada de emergencia**  
+  * *Tipo:* pulsador normalmente cerrado (NC) con enclavamiento de seguridad.
+* **1x Botonera de control**  
+  * *Contenido:* pulsadores de marcha/paro e indicadores luminosos de estado.
 
-### 🔬 2.2 Sensórica y acondicionamiento de señal
-| Cantidad | Componente                         | Descripción / especificación                                                                   |
--------------------------------------------------------------------------------------------------------------------------------------------------
-| 1x       | **Célula de carga de barra**       | Rango $20\text{ kg}$ o $50\text{ kg}$ (4 hilos: excitación y señal).                           |
-| 1x       | **Transmisor analógico de célula** | Módulo DY220 (o equivalente) con alimentación $24\text{ V DC}$ y salida $0-10\text{ V}$.       |
-| 2-3x     | **Sensores ópticos / inductivos**  | Detectores de presencia de pieza para cinta transportadora.                                    |
+### 🔬 2.2 Sensores y acondicionamiento de señal
+* **1x Célula de carga de barra**  
+  * *Rango:* $20\text{ kg}$ o $50\text{ kg}$  
+  * *Conexión:* 4 hilos (excitación y señal).
+* **1x Transmisor analógico para célula de carga**  
+  * *Modelo:* DY220 (o equivalente)  
+  * *Especificaciones:* alimentación a $24\text{ V DC}$ y salida analógica de $0-10\text{ V}$.
+* **2-3x Sensores ópticos / inductivos**  
+  * *Función:* detección de presencia de pieza en la cinta transportadora.
 
 ### ⚙️ 2.3 Mecánica y actuación
-| Cantidad | Componente                                | Descripción / Especificación                                                     |
-------------------------------------------------------------------------------------------------------------------------------------------
-| 1x       | **Motor paso a paso NEMA 17**             | Motor de alto par para el eje de compresión vertical.                            |
-| 1x       | **Driver de motor TB6600**                | Módulo de potencia ($9-42\text{ V DC}$) controlado por pulsos/dirección ($PTO$). |
-| Varios   | **Perfiles de aluminio $2020$**           | Extruido V-Slot/T-Slot para el bastidor principal.                               |
-| Varios   | **Escuadras y Tuercas T**                 | Uniones internas/externas y tornillería M4/M5 para perfilería.                   |
-| 1x       | **Husillo $T8$ con Tuerca Latón**         | Paso de rosca para transmisión de avance vertical.                               |
-| 2x       | **Varillas Lisas y Rodamientos**          | Varillas de acero $\varnothing 8\text{ mm}$ con rodamientos $LM8UU$ para guiado. |
-| 1x       | **Acoplamiento Flexible $5-8\text{ mm}$** | Unión entre eje de motor NEMA 17 y husillo $T8$.                                 |
-| 1x       | **Cinta Transportadora Didáctica**        | Línea de arrastre con motor y rodillos integrados.                               |
-| 1x       | **Manipulador Pick & Place**              | Brazo o actuador para posicionamiento y evacuación de muestras.                  |
+* **1x Motor paso a paso NEMA 17**  
+  * *Función:* motor de alto par para la prensa de compresión vertical.
+* **1x Driver para motor paso a paso TB6600**  
+  * *Especificaciones:* $9-42\text{ V DC}$, control por pulsos y dirección ($PTO$).
+* **Varios perfiles de aluminio $2020$**  
+  * *Tipo:* extruido V-Slot / T-Slot para el bastidor principal.
+* **Varios escuadras y tuercas T**  
+  * *Tipo:* uniones metálicas y tornillería M4/M5 para perfilería de aluminio.
+* **1x Husillo $T8$ con tuerca de latón**  
+  * *Función:* transmisión de avance lineal para el eje vertical.
+* **2x Varillas lisas y rodamientos lineales**  
+  * *Especificaciones:* varillas de acero $\varnothing 8\text{ mm}$ y rodamientos $LM8UU$ para guiado.
+* **1x Acoplamiento flexible $5-8\text{ mm}$**  
+  * *Función:* unión entre el eje del motor NEMA 17 y el husillo $T8$.
+* **1x Cinta transportadora didáctica**  
+  * *Función:* línea de arrastre motorizada con rodillos de transporte.
+* **1x Manipulador Pick & Place**  
+  * *Función:* brazo o actuador para la carga, posicionamiento y evacuación de muestras.
