@@ -35,7 +35,26 @@ El proceso combina el transporte en línea, la manipulación de piezas mediante 
 * 📐 [Arquitectura del sistema y esquemas eléctricos](docs/HARDWARE_WIRING.es.md)
 * 🎯 [Guía de calibración de la célula de carga](docs/CALIBRATION_GUIDE.es.md)
 
+
 ---
+
+### 🛠️ Tecnologías y componentes (hardware y software)
+* **PLC:** Siemens SIMATIC S7-1200 (CPU 1212C / 1214C DC/DC/DC)
+* **HMI:** Siemens SIMATIC KTP400 / KTP700 Basic
+* **Software:** TIA Portal V17 / V18 (WinCC Basic)
+* **Actuación y Sensórica:**
+  * Célula de carga de barra ($20\text{ kg} / 50\text{ kg}$) + transmisor analógico de $0-10\text{ V}$ (DY220)
+  * Motor paso a paso NEMA 17 + Driver TB6600
+  * Chasis en perfil de aluminio extruido $2020$ V-Slot + husillo $T8$
+  * Cinta transportadora + manipulador *Pick & Place*
+
+---
+
+### 📄 Licencia
+Distribuido bajo la Licencia Apache, Versión 2.0 (la "Licencia"). Puedes obtener una copia de la Licencia en el archivo `LICENSE` o en:
+http://www.apache.org/licenses/LICENSE-2.0
+
+----------
 
 <a name="english"></a>
 ## 🇬🇧 english
