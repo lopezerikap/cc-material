@@ -72,7 +72,13 @@
   * *Especificaciones:* varillas de acero $\varnothing 8\text{ mm}$ y rodamientos $LM8UU$ para guiado.
 * **1x Acoplamiento flexible $5-8\text{ mm}$**  
   * *Función:* unión entre el eje del motor NEMA 17 y el husillo $T8$.
-* **1x Cinta transportadora didáctica**  
-  * *Función:* línea de arrastre motorizada con rodillos de transporte.
-* **1x Manipulador Pick & Place**  
-  * *Función:* brazo o actuador para la carga, posicionamiento y evacuación de muestras.
+* **1x Robot manipulador 3D Pick & Place**  
+  * *Modelo:* Fischertechnik 3D Robot - 24V  
+  * *Referencia / rev:* art.: 511938 (Rev: M1.6)  
+  * *Especificaciones:* estructura de 3 ejes cartesianos/rotativos a $24\text{ V DC}$ con garra, finales de carrera, placa PCB de adaptación y bornera de conexiones etiquetada.
+  * *Función:* carga de probetas desde la cinta transportadora hacia la prensa de ensayo y evacuación según clasificación (OK/Rechazo).
+* **1x Línea de cinta transportadora**  
+  * *Modelo:* Fischertechnik Punching Machine with Conveyor Belt - 24V  
+  * *Referencia / rev:* art.: 96785 (Rev: M1.6)  
+  * *Especificaciones:* cinta de arrastre a $24\text{ V DC}$ con motorización integrada, barreras de luz/sensores de paso y PCB de adaptación (Knobloch RL-146).
+  * *Función:* transporte automatizado de piezas desde la zona de carga inicial hasta el punto de recogida del robot Pick & Place.
