@@ -72,7 +72,13 @@
   * *Specifications:* $\varnothing 8\text{ mm}$ steel shafts with $LM8UU$ bearings for guided motion.
 * **1x Flexible coupling $5-8\text{ mm}$**  
   * *Function:* connects the NEMA 17 motor shaft to the $T8$ lead screw.
-* **1x Educational conveyor belt**  
-  * *Function:* motorized transport line with integrated rollers.
-* **1x Pick & Place manipulator**  
-  * *Function:* actuator/arm for sample loading, positioning, and unloading.
+* **1x 3D Pick & Place manipulator robot**  
+  * *Model:* Fischertechnik 3D Robot - 24V  
+  * *Part No. / Rev:* art.: 511938 (Rev: M1.6)  
+  * *Specifications:* 3-axis cartesian/rotary $24\text{ V DC}$ robot with gripper, limit switches, adapter PCB, and labeled terminal block interface.  
+  * *Function:* sample loading from conveyor belt to testing press and automated sorting (OK/Reject).
+* **1x Conveyor belt assembly**  
+  * *Model:* Fischertechnik Punching Machine with Conveyor Belt - 24V  
+  * *Part No. / Rev:* art.: 96785 (Rev: M1.6)  
+  * *Specifications:* $24\text{ V DC}$ belt conveyor with integrated drive motor, phototransistor light barriers, and adaptation PCB (Knobloch RL-146).  
+  * *Function:* automated transport of workpieces from initial loading area to robot pickup position.
