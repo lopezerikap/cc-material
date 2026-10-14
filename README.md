@@ -69,7 +69,7 @@ The workflow integrates conveyor transport line automation, a *Pick & Place* rob
 
 ### 📂 Documentation Structure
 * 📄 [Bill of materials & tools (BOM)](docs/MATERIALS_BOM.en.md)
-* 🗺️ [Project Timeline](docs/ROADMAP.en.md)
+* 🗺️ [Project timeline](docs/ROADMAP.en.md)
 * 📐 [System architecture & electrical schematics](docs/HARDWARE_WIRING.en.md)
 * 🎯 [Load cell calibration guide](docs/CALIBRATION_GUIDE.en.md)
 
