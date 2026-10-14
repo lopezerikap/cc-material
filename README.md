@@ -30,8 +30,9 @@ El proceso combina el transporte en línea, la manipulación de piezas mediante 
 * **Detección automática de rotura:** algoritmo en PLC (TIA Portal SCL/LAD) para el análisis de caídas bruscas de tensión/fuerza, cálculo del pico crítico y parada inmediata por seguridad.
 * **Trazabilidad y supervisión:** monitorización de curvas de esfuerzo en tiempo real y diagnóstico en la pantalla HMI SIMATIC.
 
-### 📂 Estructura de la documentación
-* 📄 [Lista de materiales (BOM)](docs/MATERIALS_BOM.es.md)
+### 📂 Estructura de la Documentación
+* 📄 [Lista de materiales y herramientas (BOM)](docs/MATERIALS_BOM.es.md)
+* 🗺️ [Cronograma de proyecto](docs/ROADMAP.es.md)
 * 📐 [Arquitectura del sistema y esquemas eléctricos](docs/HARDWARE_WIRING.es.md)
 * 🎯 [Guía de calibración de la célula de carga](docs/CALIBRATION_GUIDE.es.md)
 
@@ -66,8 +67,9 @@ The workflow integrates conveyor transport line automation, a *Pick & Place* rob
 * **Automatic break detection:** PLC algorithm (TIA Portal SCL/LAD) monitoring sharp force drops to calculate the critical yield point and trigger immediate safety stops.
 * **Traceability & supervision:** real-time stress graph monitoring and system diagnostics on the SIMATIC HMI panel.
 
-### 📂 Documentation structure
-* 📄 [Bill of materials (BOM)](docs/MATERIALS_BOM.en.md)
+### 📂 Documentation Structure
+* 📄 [Bill of materials & tools (BOM)](docs/MATERIALS_BOM.en.md)
+* 🗺️ [Project Timeline](docs/ROADMAP.en.md)
 * 📐 [System architecture & electrical schematics](docs/HARDWARE_WIRING.en.md)
 * 🎯 [Load cell calibration guide](docs/CALIBRATION_GUIDE.en.md)
 
