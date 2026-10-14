@@ -1,4 +1,4 @@
-# 🗺️ Project Timeline
+# 🗺️ Project timeline
 
 > **Project:** Automated system for material processing, handling and quality control  
 > **Architecture:** Siemens S7-1200 | Fischertechnik 3D Robot 24V | TIA Portal | PROFINET  
