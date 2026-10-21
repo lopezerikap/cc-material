@@ -33,7 +33,7 @@ El proceso combina el transporte en línea, la manipulación de piezas mediante 
 ### 📂 Estructura de la Documentación
 * 📄 [Lista de materiales y herramientas (BOM)](docs/MATERIALS_BOM.es.md)
 * 🗺️ [Cronograma de proyecto](docs/ROADMAP.es.md)
-* 📐 [Arquitectura del sistema y esquemas eléctricos](docs/HARDWARE_WIRING.es.md)
+* 📐 [Arquitectura del sistema y esquemas eléctricos](schematics/HARDWARE_WIRING.es.md)
 * 🎯 [Guía de calibración de la célula de carga](docs/CALIBRATION_GUIDE.es.md)
 
 ### 🛠️ Tecnologías y componentes (hardware y software)
@@ -70,7 +70,7 @@ The workflow integrates conveyor transport line automation, a *Pick & Place* rob
 ### 📂 Documentation Structure
 * 📄 [Bill of materials & tools (BOM)](docs/MATERIALS_BOM.en.md)
 * 🗺️ [Project timeline](docs/ROADMAP.en.md)
-* 📐 [System architecture & electrical schematics](docs/HARDWARE_WIRING.en.md)
+* 📐 [System architecture & electrical schematics](schematics/HARDWARE_WIRING.en.md)
 * 🎯 [Load cell calibration guide](docs/CALIBRATION_GUIDE.en.md)
 
 ### 🛠️ Hardware & software stack
