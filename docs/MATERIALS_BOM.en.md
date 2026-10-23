@@ -2,6 +2,8 @@
 > **Project:** Automated system for material processing, handling and quality control  
 > **Platform:** Siemens S7-1200 / PROFINET / TIA Portal  
 
+***Material selection and component specification are currently under evaluation.***
+
 ---
 
 ## 🛠️ 1. Tools & workshop equipment
