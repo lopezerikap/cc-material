@@ -2,7 +2,7 @@
 > **Proyecto:** Sistema automatizado de gestión, procesado de materiales y control de calidad industrial  
 > **Plataforma:** Siemens S7-1200 / PROFINET / TIA Portal  
 
-*** La selección de materiales e investigación de componentes se encuentra actualmente en fase de evaluación. ***
+***La selección de materiales e investigación de componentes se encuentra actualmente en fase de evaluación.***
 
 ---
 
